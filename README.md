@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshat Shukla</h1>
-<h3 align="center">Incoming SDE at Chalo, Ex-SDE intern at Amazon, Microsoft Engage Program 2021 mentee, Open-source enthusiast</h3>
+<h3 align="center">Incoming SDE at Chalo, Ex-SDE intern at Amazon, Microsoft Engage Program 2021 mentee"</h3>
+<h3 align="center>"Open-source enthusiast"</h3>
 
 - 🔭 I’m currently working on [Studify](https://github.com/akshatshukla175/studify-webapp)
 
